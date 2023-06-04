@@ -1,8 +1,8 @@
-# Curso_Python_Basico
+# Curso_Python_Basico 💯
 
 Autor: [Cristian Echevarria](https://github.com/Echxvx2610)
 
-## Bienvenidos!
+## Bienvenidos! 🥳
 
 El objetivo de este Curso de introduccion al lenguaje de programacion python,tiene finalidad de dar una introduccion a mis amigos y compañeros de carrera tanto como para esas personas que buscan una introduccion a este lenguaje de una forma mas amigable y sin tantos tecnicismos. dicho curso pretendo abarcar los  siguentes topicos:
 
@@ -29,5 +29,5 @@ Antes de comenzar con este curso en necesario que tengas una nocion de lo que so
 
 *Nota: al instalar python asegurate de seleccion la opcion de agregar python a PATH*
 
-## Agradecimiento
+## Agradecimiento ❤️👏
 Por este me gustaria dar credito e inspiracion a el autor del curso *30 days of python* by [*Asabeneh*](https://github.com/Asabeneh). autor del cual yo me fascine con este lenguaje llamado python.este curso surgio de las ganas de compartir ese conocimiento aprendido de el y otros autories siendo el, el mas influyente. tambien quiero agradecer a mis amigos y compañeros Oscar teran,Israel Tejeda,Cristian Malacara y Felix Navarro siendo motivo por el cual realizo hoy este repositorio.
