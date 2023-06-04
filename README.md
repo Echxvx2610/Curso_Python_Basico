@@ -1,5 +1,9 @@
 # Curso_Python_Basico 💯
 
+<p align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jPSX-ydn--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/tteuu4xw5tomxb7l0xjx.png"> 
+</p
+
 Autor: [Cristian Echevarria](https://github.com/Echxvx2610)
 
 ## Bienvenidos! 🥳
