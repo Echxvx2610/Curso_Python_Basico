@@ -14,7 +14,7 @@ El objetivo de este Curso de introduccion al lenguaje de programacion python,tie
 Nota: Este curso se ira actualizando en el trasncurso de las semanas,ya que lo estare impartiendo los dias miercoles y jueves,conforme vaya la clase se ira actualizando el repositorio con nuevos temas y ejercicios,asi que atentos!.
 
 ### Topicos del curso
-* [Introduccion](./Introduccion/introduccion.md)
+* [Introduccion](./Introduccion/Introduccion.md)
 * [Variables]()
 * [Operadores (aritmeticos,logicos)]()
 
