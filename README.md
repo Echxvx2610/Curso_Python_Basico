@@ -17,3 +17,17 @@ Nota: Este curso se ira actualizando en el trasncurso de las semanas,ya que lo e
 * [Introduccion](./Introduccion/introduccion.md)
 * [Variables]()
 * [Operadores (aritmeticos,logicos)]()
+
+## Comenzando 🚀
+Antes de comenzar con este curso en necesario que tengas una nocion de lo que son los lenguajes de programacion,nocion de fundamentos de programacion ademas de actitud y aptitud,cabe mencionar que no me proclamo un experto en Python,pero considero que tengo la suficiente experiencia como para impartir este curso,hasta la fecha sigo estudiandolo y pronto veran mas proyectos avanzados del mismo,este repositorio esta abierto a retroalimentacion.
+
+### Pre-requisitos 📋
+* Python v.3.0 ++
+  * [Descargar e instalar python](https://www.python.org/downloads/)
+* Visual studio code
+  * [Descargar Visual studio code](https://code.visualstudio.com/download)
+
+*Nota: al instalar python asegurate de seleccion la opcion de agregar python a PATH*
+
+## Agradecimiento
+Por este me gustaria dar credito e inspiracion a el autor del curso *30 days of python* by [*Asabeneh*](https://github.com/Asabeneh). autor del cual yo me fascine con este lenguaje llamado python.este curso surgio de las ganas de compartir ese conocimiento aprendido de el y otros autories siendo el, el mas influyente. tambien quiero agradecer a mis amigos y compañeros Oscar teran,Israel Tejeda,Cristian Malacara y Felix Navarro siendo motivo por el cual realizo hoy este repositorio.
