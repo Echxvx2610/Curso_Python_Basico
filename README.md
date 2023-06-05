@@ -20,7 +20,9 @@ Nota: Este curso se ira actualizando en el trasncurso de las semanas,ya que lo e
 ### Topicos del curso
 * [Introduccion](./Introduccion/Introduccion.md)
 * [Variables](./Variables/variables.md)
-* [Operadores (aritmeticos,logicos)](./Operadores/Operadores.md)
+* [Operadores (aritmeticos,logicos)](./Operadores/operadores.md)
+* [Strings (Cadenas de texto)](./Strings/string.md)
+* [Listas]()
 
 ## Comenzando 🚀
 Antes de comenzar con este curso en necesario que tengas una nocion de lo que son los lenguajes de programacion,nocion de fundamentos de programacion ademas de actitud y aptitud para tomar el curso,cabe mencionar que no me proclamo un experto en Python,pero considero que tengo la suficiente experiencia como para impartir este curso,hasta la fecha sigo estudiandolo y pronto veran mas proyectos avanzados del mismo(Curso_Python_Intermedio,Curso_Python_Avanzado),este repositorio esta abierto a la retroalimentacion!💙.
