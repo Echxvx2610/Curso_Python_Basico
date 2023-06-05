@@ -26,6 +26,8 @@ Nota: Este curso se ira actualizando en el trasncurso de las semanas,ya que lo e
 Antes de comenzar con este curso en necesario que tengas una nocion de lo que son los lenguajes de programacion,nocion de fundamentos de programacion ademas de actitud y aptitud para tomar el curso,cabe mencionar que no me proclamo un experto en Python,pero considero que tengo la suficiente experiencia como para impartir este curso,hasta la fecha sigo estudiandolo y pronto veran mas proyectos avanzados del mismo,este repositorio esta abierto a retroalimentacion.
 
 ### Pre-requisitos 📋
+* Ingles basico (leido)
+  * Debido a la documentacion oficial ,claro que puedes traducirlo
 * Python v.3.0 ++
   * [Descargar e instalar python](https://www.python.org/downloads/)
 * Visual studio code
