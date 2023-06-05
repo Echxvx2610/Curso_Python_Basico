@@ -2,10 +2,9 @@
 
 ## 📖 Que es Python?
 Guido Van Rossum, un programador de computación de los Países Bajos, creó Python. Python comenzó en 1989 en el Centrum Wiskunde & Informatica (CWI), en principio como un proyecto de afición para mantenerse ocupado durante las vacaciones de Navidad. El nombre del lenguaje se inspiró en el programa de televisión de la BBC “Monty Python’s Flying Circus” debido a que Guido Van Rossum era un gran aficionado del programa. 
+Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning  (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes. El software Python se puede descargar gratis, se integra bien a todos los tipos de sistemas y aumenta la velocidad del desarrollo.
 
 ## ¿Porque python? 🤔
-
-Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning  (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes. El software Python se puede descargar gratis, se integra bien a todos los tipos de sistemas y aumenta la velocidad del desarrollo.
 Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes
 
 ## ¿Qué beneficios ofrece Python?
@@ -23,7 +22,7 @@ Los beneficios de Python incluyen los siguientes:
 Un script de Python puede ser escrito en la consola interactiva de Python o en el editor de código. Un archivo de Python tiene la extensión .py.
 
 ### Python Sheel
-una vez descargado e instalado python puedo ejecutar la consola de python ejecutando el programa sig: ![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/41bcdd30-4b71-4084-8e80-f733f15f8be1), veras la siguiente consola:
+una vez descargado e instalado python puedes ejecutar la consola de python ejecutando el programa sig: ![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/41bcdd30-4b71-4084-8e80-f733f15f8be1), veras la siguiente consola:
 
 ![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/794e6ed9-66cf-42bb-812f-15d46dfd8806)
 
