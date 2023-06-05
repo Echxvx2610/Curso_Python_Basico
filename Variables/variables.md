@@ -57,7 +57,7 @@ print(len('Hello, World!')) # y en este caso solo toma un argumento
 ```
 Ahora con uso de la funcion len() veamos cual es el largo o tamaño de nuestras variables
 ```python
-# Printing the values stored in the variables
+# Imprimiendo los valores almacenados en las variables
 
 print('First name:', first_name)
 print('First name length:', len(first_name))
