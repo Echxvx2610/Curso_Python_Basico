@@ -7,5 +7,4 @@ num2 = input ( "ingrese otro numero: ")
 res = float(num1) + float(num2)
 
 #imprimimos
-print("la suma es:",res)
-print("gracias")
+print("el resultado de la suma es:",res)
