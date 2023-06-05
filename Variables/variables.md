@@ -1,4 +1,4 @@
-## Variables y Funciones integradas (Built-in funtions)
+# Variables y Funciones integradas (Built-in funtions)
 
 ## Funciones integradas introduccion
 En Python, tenemos muchas funciones integradas. Las funciones integradas están disponibles globalmente para su uso, lo que significa que puedes utilizarlas sin importar o configurar nada. Algunas de las funciones integradas de Python más comúnmente utilizadas son las siguientes: print(), len(), type(), int(), float(), str(), input(), list(), dict(), min(), max(), sum(), sorted(), open(), file(), help() y dir(). En la siguiente tabla verás una lista exhaustiva de las funciones integradas de Python extraídas de la [documentacion oficial de python](https://docs.python.org/3/)
