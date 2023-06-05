@@ -180,3 +180,5 @@ triángulo (área = 0,5 x b x h)
 4 1 4 16 64
 5 1 5 25 125
 ```
+
+*Nota: puedes consultar el script [operadores.py](./Operadores/operador.py) para mas ejemplos *
