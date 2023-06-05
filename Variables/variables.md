@@ -177,7 +177,7 @@ Excelente! terminaste la seccion de variables!,es hora de practicar lo aprendido
 * Dividir num_one entre num_two y asignar el valor a la variable division
 * Obten el primer nombre, apellido, país y edad del usuario utilizando la función incorporada input() y almacena los valores en las variables correspondientes.
 
-*Nota:puedes consultar el script [variables.py](.Variables/variables.py)*
+*Nota:puedes consultar el script [variables.py](.Variables/variables.py) para ver mas ejemplos*
 
 
 
