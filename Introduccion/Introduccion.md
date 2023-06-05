@@ -23,7 +23,7 @@ Los beneficios de Python incluyen los siguientes:
 Un script de Python puede ser escrito en la consola interactiva de Python o en el editor de código. Un archivo de Python tiene la extensión .py.
 
 ### Python Sheel
-una vez descargado e instalado python puedo ejecutar la consola de python ejecutando el programa sig: ![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/41bcdd30-4b71-4084-8e80-f733f15f8be1), veral la siguiente consola:
+una vez descargado e instalado python puedo ejecutar la consola de python ejecutando el programa sig: ![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/41bcdd30-4b71-4084-8e80-f733f15f8be1), veras la siguiente consola:
 
 ![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/794e6ed9-66cf-42bb-812f-15d46dfd8806)
 
