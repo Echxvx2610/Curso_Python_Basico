@@ -39,7 +39,7 @@ Antes de comenzar con este curso en necesario que tengas una nocion de lo que so
 Por este me gustaria dar credito e inspiracion a el autor del curso *30 days of python* by [*Asabeneh*](https://github.com/Asabeneh). Autor del cual gracias a el fascine con este lenguaje llamado python, este curso surgio de las ganas de compartir ese conocimiento aprendido de el y otros autories siendo el, el mas influyente. tambien quiero agradecer a mis amigos y compañeros Oscar teran,Israel Tejeda,Cristian Malacara y Felix Navarro siendo motivo por el cual realizo hoy este repositorio.
 
 ### Invitame un cafe!☕
-Este curso sin fin de lucro pero si quisiera invitarme un cafe no lo voy a rechazar 😄
+Este curso esta creado sin fin de lucro pero si quisieras invitarme un cafe no lo voy a rechazar! 😄
 <p aling="center">
 <a href = "https://www.paypal.me/EchevarriaMendoza"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYpMm0nMZaUx422jSOgQB74ZQHKdKQIsqtEA&usqp=CAU" alt='Paypal Logo' style="width:30%"/></a>
 </p>
