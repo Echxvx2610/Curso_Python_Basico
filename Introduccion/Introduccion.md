@@ -188,6 +188,7 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
   * Tu nombre
   * Tu apellido
   * Tu pais
+
 ## Extra
 
 Crea un folder llamado Curso_Basico_python dentro de ella crea una carpeta llamada introduccion y realiza los ejercicios en la app visual studio code.
