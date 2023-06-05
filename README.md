@@ -19,7 +19,7 @@ Nota: Este curso se ira actualizando en el trasncurso de las semanas,ya que lo e
 
 ### Topicos del curso
 * [Introduccion](./Introduccion/Introduccion.md)
-* [Variables]()
+* [Variables](./Variables/variables.py)
 * [Operadores (aritmeticos,logicos)]()
 
 ## Comenzando 🚀
