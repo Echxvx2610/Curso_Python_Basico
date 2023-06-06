@@ -18,11 +18,13 @@ El objetivo de este Curso de introduccion al lenguaje de programacion python,tie
 Nota: Este curso se ira actualizando en el trasncurso de las semanas,ya que lo estare impartiendo los dias miercoles y jueves,conforme vaya la clase se ira actualizando el repositorio con nuevos temas y ejercicios,asi que atentos!.
 
 ### Topicos del curso
-* [Introduccion](./Introduccion/Introduccion.md)
-* [Variables](./Variables/variables.md)
-* [Operadores (aritmeticos,logicos)](./Operadores/operadores.md)
-* [Strings (Cadenas de texto)](./Strings/strings.md)
-* [Listas]()
+* **Fundamentos de programacion**
+  * [Introduccion](./Introduccion/Introduccion.md)
+  * [Variables](./Variables/variables.md)
+  * [Operadores (aritmeticos,logicos)](./Operadores/operadores.md)
+  * **Tipos de Datos**
+    * [Strings (Cadenas de texto)](./Strings/strings.md)
+    * [Listas]()
 
 ## Comenzando 🚀
 Antes de comenzar con este curso en necesario que tengas una nocion de lo que son los lenguajes de programacion,nocion de fundamentos de programacion ademas de actitud y aptitud para tomar el curso,cabe mencionar que no me proclamo un experto en Python,pero considero que tengo la suficiente experiencia como para impartir este curso,hasta la fecha sigo estudiandolo y pronto veran mas proyectos avanzados del mismo(Curso_Python_Intermedio,Curso_Python_Avanzado),este repositorio esta abierto a la retroalimentacion!💙.
