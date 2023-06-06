@@ -21,7 +21,7 @@ Nota: Este curso se ira actualizando en el trasncurso de las semanas,ya que lo e
 * [Introduccion](./Introduccion/Introduccion.md)
 * [Variables](./Variables/variables.md)
 * [Operadores (aritmeticos,logicos)](./Operadores/operadores.md)
-* [Strings (Cadenas de texto)](./Strings/string.md)
+* [Strings (Cadenas de texto)](./Strings/strings.md)
 * [Listas]()
 
 ## Comenzando 🚀
