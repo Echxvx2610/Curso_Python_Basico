@@ -20,7 +20,7 @@ Las variables almacenan datos en la memoria de una computadora. Se recomienda ut
 
 Veamos unos ejemplos de como se deben declarar las variables:
 ```sheel
-fisrtname
+firstname
 lastname
 age
 country
