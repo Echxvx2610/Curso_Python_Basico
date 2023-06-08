@@ -15,7 +15,7 @@ El objetivo de este Curso de introduccion al lenguaje de programacion python,tie
 * Introduccion a las interfaces graficas de usuarios(GUI)
 * Introduccion al analisis y manejo de datos(pandas,csv,open)
 
-Nota: Este curso se ira actualizando en el trasncurso de las semanas,ya que lo estare impartiendo los dias miercoles y jueves,conforme vaya la clase se ira actualizando el repositorio con nuevos temas y ejercicios,asi que atentos!.
+Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo estare impartiendo los dias miercoles y jueves,conforme vaya la clase se ira actualizando el repositorio con nuevos temas y ejercicios,asi que atentos!.
 
 ### Topicos del curso
 * **Fundamentos de programacion**
