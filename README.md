@@ -40,7 +40,7 @@ Antes de comenzar con este curso en necesario que tengas una nocion de lo que so
 *Nota: al instalar python asegurate de seleccion la opcion de agregar python a PATH*
 
 ## Agradecimiento ❤️👏
-Por este medio me gustaria dar credito e inspiracion a el autor del curso *30 days of python* by [*Asabeneh*](https://github.com/Asabeneh). Autor del cual gracias a el me fascine con este lenguaje llamado python, este curso surgio de las ganas de compartir ese conocimiento aprendido de el y otros autores siendo el, el mas influyente.Quiero agradecer a mi madre quien me apoyo a iniciar este proceso en mi vida,a mis amigos y compañeros Oscar teran,Israel Tejeda,Cristian Malacara y Felix Navarro siendo motivo por el cual realizo hoy este repositorio.
+Por este medio me gustaria dar credito e inspiracion a el autor del curso *30 days of python* by [*Asabeneh*](https://github.com/Asabeneh). Autor del cual gracias a el me fascine con este lenguaje llamado python, este curso surgio de las ganas de compartir ese conocimiento aprendido de el y otros autores siendo el, el mas influyente.Quiero agradecer a mi madre quien me apoyo a iniciar este proceso en mi vida,a mis amigos y compañeros Oscar teran,Israel Tejeda,Cristian Malacara y Felix Navarro siendo lo anterior mencionado el motivo por el cual realizo hoy este repositorio.
 
 ### Invitame un cafe!☕
 Este curso esta creado sin fin de lucro pero si quisieras invitarme un cafe no lo voy a rechazar! 😄
