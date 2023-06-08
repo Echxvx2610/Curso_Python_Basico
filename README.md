@@ -31,13 +31,15 @@ Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo e
   * Bucles
     * [Condicionales]()
     * [Loops]()
+      * for loop
+      * while loop
   * [Funciones]()
   * [Modulos ( Creacion de modulos y paquetes )]()
   * [Comprension de listas]()
   * [ *Higher Order Funtions* ]()
   * [Python Errors]()
     * Tipos de errores
-    * Manejo de Errores
+    * Manejo de Errores (try and except)
 * **INTRODUCCION A LIBRERIAS IMPORTANTES**
   * [Datetime (Manejo de tiempos y fechas )]()
   * [Manejo de archivos( open(),lectura y escritura )]()
