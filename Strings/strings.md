@@ -226,3 +226,61 @@ print(calle.find('ca'))
 rfind()
 print(calle.rfind('za')) # similar pero prioriza en el segundo index
 ```
+* format(): da formato a la cadena para que salga mejor
+```python
+#format()
+nombre_f = "Cristian"
+apellido_f = "Echevarria"
+print("el nombre completo es {} {}".format(nombre_f, apellido_f))
+```
+* join(): Devuelve una cadena concatenada
+```python
+web_tech = "Python, Django, Flask"
+result = "#".join(web_tech)
+print(result)
+```
+* strip(): Elimina todos los caracteres dados empezando por el principio y el final de la cadena.
+```python
+auto = "nissan altima"
+print(auto.strip("ssan")) # remueve los caracteres especificados del primero y segundo string
+```
+* replace(): Sustituye la subcadena por una cadena dada
+```python
+avion = "Boing 747"  #Remplaza un string o caracter por otro en el string original
+print(avion.replace("Boing", "Boeing"))
+print(avion.replace("747", "777"))
+print(avion.replace(" ", "-"))
+```
+* split(): Divide la cadena, utilizando la cadena dada o el espacio como separador.
+```python
+#split()
+nombre = "Cristian Echevarria"
+print(nombre.split()) #separa el string en una lista
+```
+* swapcase(): Convierte todos los caracteres en mayúsculas a minúsculas y todos los caracteres en minúsculas a mayúsculas.
+```python
+#swapcase() 
+moto = "ITALIKA"
+print(moto.swapcase()) # convierte de mayuscula a minuscula y viceversa
+moto_2 = "italika"
+print(moto_2.swapcase())
+```
+## Ejercicios
+* Concatena el string 'Curso', 'Basico', 'De', 'Python' en una sola cadena, 'Curso Basico de Python'.
+* Concatena el string  'Codificación', 'Para' , 'Todos' en una sola cadena, 'Codificación Para Todos'.
+* Declara una variable llamada empresa y asígnele un valor inicial "Codificación Para Todos".
+* Imprime la variable empresa utilizando print().
+* Imprime la longitud de la cadena empresa utilizando el método len() y print().
+* Cambia todos los caracteres a mayúsculas utilizando el método upper().
+* Cambia todos los caracteres a minúsculas utilizando el método lower().
+* Utiliza los métodos capitalize(), title(), swapcase() para formatear el valor de la cadena "Curso Basico de Python".
+* Cortar la primera palabra de la cadena "Curso Basico de Python".
+* "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon" divide la cadena en la coma.
+* Comprueba si la cadena "Curso Basico de Python" contiene una palabra "curso" utilizando el método find u otros métodos.
+* Reemplazar la palabra Curso en la cadena 'Curso para todos' por Python.
+* Utilice el método de formato de cadena para mostrar lo siguiente:
+```script
+radius = 10
+area = 3.14 * radius ** 2
+The area of a circle with radius 10 is 314 meters square.
+```
