@@ -22,7 +22,7 @@ Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo e
   * [Introduccion](./Introduccion/Introduccion.md)
   * [Variables](./Variables/variables.md)
   * [Operadores (aritmeticos,logicos)](./Operadores/operadores.md)
-  * **Tipos de Datos**
+  * **Tipos y Estructuras de Datos**
     * [Strings (Cadenas de texto)](./Strings/strings.md)
     * [Listas]()
 
