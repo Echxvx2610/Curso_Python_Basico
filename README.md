@@ -11,21 +11,49 @@ Autor: [Cristian Echevarria](https://github.com/Echxvx2610)
 El objetivo de este Curso de introduccion al lenguaje de programacion python,tiene finalidad de dar una introduccion a mis amigos y compañeros de carrera tanto como para esas personas que buscan una introduccion a este lenguaje de una forma mas amigable y sin tantos tecnicismos. dicho curso pretendo abarcar los  siguentes topicos:
 
 * Fundamentos de programacion con python
-* Introduccion a librerias importantes(threading,subprocess,os)
+* Introduccion a librerias importantes(threading,subprocess,asyncio,os)
 * Introduccion a las interfaces graficas de usuarios(GUI)
 * Introduccion al analisis y manejo de datos(pandas,csv,open)
 
 Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo estare impartiendo los dias miercoles y jueves,conforme vaya la clase se ira actualizando el repositorio con nuevos temas y ejercicios,asi que atentos!.
 
 ### Topicos del curso
-* **Fundamentos de programacion**
+* **FUNDAMENTEOS DE PROGRAMACION**
   * [Introduccion](./Introduccion/Introduccion.md)
   * [Variables](./Variables/variables.md)
   * [Operadores (aritmeticos,logicos)](./Operadores/operadores.md)
   * **Tipos y Estructuras de Datos**
     * [Strings (Cadenas de texto)](./Strings/strings.md)
     * [Listas](./Listas/listas.md)
+    * [Tuplas]()
+    * [SET]()
+    * [Diccionarios]()
+  * Bucles
+    * [Condicionales]()
+    * [Loops]()
+  * [Funciones]()
+  * [Modulos ( Creacion de modulos y paquetes )]()
+  * [Comprension de listas]()
+  * [ *Higher Order Funtions* ]()
+  * [Python Errors]()
+    * Tipos de errores
+    * Manejo de Errores
+* **INTRODUCCION A LIBRERIAS IMPORTANTES**
+  * [Datetime (Manejo de tiempos y fechas )]()
+  * [Manejo de archivos( open(),lectura y escritura )]()
+  * [Virtualenv (Entornos virtuales)]()
+  * [Python Web (Streamlit)/(Flask)]()
 
+* **INTRODUCCION A INTERFACES GRAFICAS GUI**
+  * [Introduccion a PySimpleGUI]()
+  * [Proyectos con PySimpleGUI]()
+  * Concurrencia en GUI
+      * [Hilos y Polea de Hilos (threading)]()
+      * [Programacion Asincrona (asyncio)]()
+* **Introduccion al analisis y manejo de datos(pandas,csv,open)**
+  * [Pandas ( Manejo de datos con dataframes )]()
+  * [Stadistics ( Modulo de estatisdica )]()
+  * [csv / Openpyxl (Manejo de archivos csv y xlxs)]()
 ## Comenzando 🚀
 Antes de comenzar con este curso en necesario que tengas una nocion de lo que son los lenguajes de programacion,nocion de fundamentos de programacion ademas de actitud y aptitud para tomar el curso,cabe mencionar que no me proclamo un experto en Python,pero considero que tengo la suficiente experiencia como para impartir este curso,hasta la fecha sigo estudiandolo y pronto veran mas proyectos avanzados del mismo(Curso_Python_Intermedio,Curso_Python_Avanzado),este repositorio esta abierto a la retroalimentacion!💙.
 
