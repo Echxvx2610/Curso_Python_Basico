@@ -125,7 +125,10 @@ print(c_formated_string)
 ```
 ## Strings y Secuencia de Caracteres
 Las cadenas de Python son secuencias de caracteres, y comparten sus métodos básicos de acceso con otras secuencias ordenadas de objetos de Python: listas y tuplas. La forma más sencilla de extraer caracteres individuales de las cadenas (y miembros individuales de cualquier secuencia) es descomprimirlos en las variables correspondientes.
-```python#********************************* Strings en sentencia de caracteres *******************************************
+![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/93f88732-06d3-4885-bb0d-ad47efb5a724)
+
+```python
+#********************************* Strings en sentencia de caracteres *******************************************
 print('************************************ Strings en sentencia de caracteres ***************************************')
 #declaras el string
 fruta = 'Manzana'
@@ -165,4 +168,61 @@ print(verdura[-5])
 print(verdura[-6])
 
 ```
+### Invertir un String
+Podemos invertir cadenas fácilmente en python,de la siguiente forma:
+```python
+#************************************************** Invertir una cadena **********************************************
+print('************************************************** Invertir un string ***********************************')
+saludo = 'Hola'
+print(saludo[::-1])
+```
+### Saltar caracteres durante el corte
+Es posible omitir caracteres durante el corte pasando el argumento step al método slice.
+```python
+#************************************* skip caractares en un string *******************************************
+print('************************************** skip caractares en un string ****************************')
+job = 'Programador'
+pro = job[0:3] #seleccionamos solo los cactacteres del 0 al 3 lo demas lo skipeamos
+print(pro) #skip 10 caracteres
+```
+## Metodos Importantes de Strings
+Existen muchos métodos de cadena que nos permiten formatear cadenas. Vea algunos de los métodos de cadena en el siguiente ejemplo:
 
+* capitalize(): Convierte el primer carácter de la cadena en mayúscula
+```python
+#capitalize()
+carrera = 'ingenieria de sistemas' # convierte la primera letra en mayuscula
+print(carrera.capitalize())
+```
+* count(): devuelve las ocurrencias de la subcadena en la cadena, count(substring, start=.., end=..). El inicio es un índice inicial para contar y el fin es el último índice para contar.
+```python
+#count() 
+platillo = 'pizza' # contar cuantas veces aparece una letra
+print(platillo.count('a'))
+print(platillo.count('z'))
+```
+* endswith(): Comprueba si una cadena termina con una terminación especificada.
+```python
+#endswith()
+bebida = "Mojito" # verifica si la cadena termina con el string o caracter deseado
+print(bebida.endswith('to'))
+print(bebida.endswith('sa'))
+```
+* expandtabs(): Sustituye el carácter de tabulación por espacios, el tamaño de tabulación por defecto es 8. Toma el argumento tamaño de tabulación
+```python
+#expandtabs()
+dias = "Lunes\tMartes\tMiercoles\tJueves\tViernes" # aplica tabulacion o como tal extendiende una tabulacion
+print(dias.expandtabs())
+print(dias.expandtabs(15))
+```
+* find(): Devuelve el índice de la primera aparición de una subcadena, si no se encuentra devuelve -1
+```python
+#find()
+calle = "Venustiano carranza" # retorna el index de la string o caracter a buscar(el index del primer caracter a buscar,si no encuentra el caracter, retorna -1)
+print(calle.find('ca'))
+```
+* rfind(): Devuelve el índice de la última aparición de una subcadena, si no se encuentra devuelve -1
+```python
+rfind()
+print(calle.rfind('za')) # similar pero prioriza en el segundo index
+```
