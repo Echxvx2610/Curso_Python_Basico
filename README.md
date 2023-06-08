@@ -26,7 +26,7 @@ Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo e
     * [Strings (Cadenas de texto)](./Strings/strings.md)
     * [Listas](./Listas/listas.md)
     * [Tuplas]()
-    * [SET]()
+    * [Sets]()
     * [Diccionarios]()
   * Bucles
     * [Condicionales]()
