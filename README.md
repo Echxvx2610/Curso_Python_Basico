@@ -24,7 +24,7 @@ Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo e
   * [Operadores (aritmeticos,logicos)](./Operadores/operadores.md)
   * **Tipos y Estructuras de Datos**
     * [Strings (Cadenas de texto)](./Strings/strings.md)
-    * [Listas]()
+    * [Listas](./Listas/listad.md)
 
 ## Comenzando 🚀
 Antes de comenzar con este curso en necesario que tengas una nocion de lo que son los lenguajes de programacion,nocion de fundamentos de programacion ademas de actitud y aptitud para tomar el curso,cabe mencionar que no me proclamo un experto en Python,pero considero que tengo la suficiente experiencia como para impartir este curso,hasta la fecha sigo estudiandolo y pronto veran mas proyectos avanzados del mismo(Curso_Python_Intermedio,Curso_Python_Avanzado),este repositorio esta abierto a la retroalimentacion!💙.
