@@ -52,7 +52,7 @@ Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo e
   * Concurrencia en GUI
       * [Hilos y Polea de Hilos (threading)]()
       * [Programacion Asincrona (asyncio)]()
-* **Introduccion al analisis y manejo de datos(pandas,csv,open)**
+* **INTRODUCCION AL ANALISIS Y MANEJO DE DATOS (PANDAS,CSV,OPEN)**
   * [Pandas ( Manejo de datos con dataframes )]()
   * [Stadistics ( Modulo de estatisdica )]()
   * [csv / Openpyxl (Manejo de archivos csv y xlxs)]()
