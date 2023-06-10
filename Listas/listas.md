@@ -70,3 +70,36 @@ last_fruit = fruits[last_index]
 ```
 ## Acceso a los Items de una Lista por Index (negativo)
 
+
+## Desempacando Listas
+
+## Cortando items de Listas
+
+## Modificar Listas
+
+## Revisando items en Listas
+
+## Agregando items en una Lista
+
+## Insertando items en una Lista
+
+## Removiendo items de una Lista
+
+### Removiendo items con Pop
+
+### Removiendo items con Del
+
+## Limpiando items de una lista
+
+## Copiar listas
+
+## Union de Listas
+
+## Contar items de una lista
+
+## Encontar el index de un elemento
+
+## Invirtiendo una Lista
+
+## Sorteando items de una Lista
+
