@@ -52,4 +52,20 @@ Las listas pueden tener elementos de distintos tipos de datos
 ```python
  lst = ['Cristian', 21, True, {'country':'Mexico', 'city':'Ensenada'}] # lista con diferentes tipos de datos
 ```
-## Accesando a los items de una lista por index
+## Acceso a los Items de una Lista por Index
+Accedemos a cada elemento de una lista utilizando su índice. El índice de una lista empieza por 0. La imagen siguiente muestra claramente dónde empieza el índice"
+![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/79e43902-3f51-45b6-806e-f638591032f1)
+```python
+fruits = ['manzana', 'platano', 'fresa', 'pera']
+first_fruit = fruits[0] # accesamos al primer elemento o item de la lista frutas
+print(first_fruit)      # manzana
+second_fruit = fruits[1]
+print(second_fruit)     # platano
+last_fruit = fruits[3]
+print(last_fruit) # fresa
+# Last index
+last_index = len(fruits) - 1
+last_fruit = fruits[last_index]
+```
+## Acceso a los Items de una Lista por Index (negativo)
+
