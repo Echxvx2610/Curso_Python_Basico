@@ -1,10 +1,11 @@
 # Listas
 Hay cuatro tipos de estructuras de datos en Python :
 
-Lista: es una colección ordenada y modificable. Permite miembros duplicados.
-Tuple: es una colección ordenada y no modificable (inmutable). Permite miembros duplicados.
-Conjunto: es una colección no ordenada, no indexada y no modificable, pero podemos añadir nuevos elementos al conjunto. No permite miembros duplicados.
-Diccionario: es una colección desordenada, modificable e indexada. No admite miembros duplicados.
+* Lista [] : es una colección ordenada y modificable. Permite miembros duplicados.
+* Tuple() : es una colección ordenada y no modificable (inmutable). Permite miembros duplicados.
+* Set{} : es una colección no ordenada, no indexada y no modificable, pero podemos añadir nuevos elementos al conjunto.
+No permite miembros duplicados.
+* Diccionario{ key:value }: es una colección desordenada, modificable e indexada. No admite miembros duplicados.
 Una lista es una colección de diferentes tipos de datos ordenada y modificable. Una lista puede estar vacía o tener elementos de diferentes tipos de datos.
 
 ## Crear una lista
