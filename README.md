@@ -56,6 +56,8 @@ Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo e
   * [Pandas ( Manejo de datos con dataframes )]()
   * [Stadistics ( Modulo de estatisdica )]()
   * [csv / Openpyxl (Manejo de archivos csv y xlxs)]()
+
+
 ## Comenzando 🚀
 Antes de comenzar con este curso en necesario que tengas una nocion de lo que son los lenguajes de programacion,nocion de fundamentos de programacion ademas de actitud y aptitud para tomar el curso,cabe mencionar que no me proclamo un experto en Python,pero considero que tengo la suficiente experiencia como para impartir este curso,hasta la fecha sigo estudiandolo y pronto veran mas proyectos avanzados del mismo(Curso_Python_Intermedio,Curso_Python_Avanzado),este repositorio esta abierto a la retroalimentacion!💙.
 
@@ -67,7 +69,7 @@ Antes de comenzar con este curso en necesario que tengas una nocion de lo que so
 * Visual studio code
   * [Descargar Visual studio code](https://code.visualstudio.com/download)
 
-*Nota: al instalar python asegurate de seleccion la opcion de agregar python a PATH*
+*Nota: al instalar python asegurate de seleccionar la opcion de agregar python a PATH*
 
 ## Agradecimiento ❤️👏
 Por este medio me gustaria dar credito e inspiracion a el autor del curso *30 days of python* by [*Asabeneh*](https://github.com/Asabeneh). Autor del cual gracias a el me fascine con este lenguaje llamado python, este curso surgio de las ganas de compartir ese conocimiento aprendido de el y otros autores siendo el, el mas influyente.Quiero agradecer a mi madre quien me apoyo a iniciar este proceso en mi vida,a mis amigos y compañeros Oscar teran,Israel Tejeda,Cristian Malacara y Felix Navarro siendo lo anterior mencionado el motivo por el cual realizo hoy este repositorio.
