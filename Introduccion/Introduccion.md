@@ -129,23 +129,23 @@ Los diccionarios en Python se definen utilizando llaves {} y los pares clave-val
 }
 ```
 
-## Revsiar el tipo de dato
+## Revisar el tipo de dato
 
-Para reviar el tipo de dato de un dato podemos usar la funcion integrada de python *type()*
+Para revisar el tipo de dato de un dato podemos usar la funcion integrada de python *type()*
 ```shell
 print(type("Hello world!"))
 ```
 
 ## Comencemos en Visual Studio Code
 
-Abre tu Visual Studio Code, crea un archivo llamado helloword.py
+Abre tu Visual Studio Code, crea un archivo llamado helloworld.py
 La consola interactiva de Python imprimía sin usar "print", pero en Visual Studio Code, para ver nuestros resultados, debemos usar la función incorporada *print(). La función print() toma uno o más argumentos de la siguiente manera: print('argumento1', 'argumento2', 'argumento3'). A continuación, puedes ver ejemplos:
 ```shell
 #Introduccion
 
 print(2 + 3)             # addition(+)
 print(3 - 1)             # subtraction(-)
-print(2 * 3)             # multiplication(*)
+print(2 * 3)           #multiplication(*)
 print(3 / 2)             # division(/)
 print(3 ** 2)            # exponential(**)
 print(3 % 2)             # modulus(%)
