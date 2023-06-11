@@ -100,7 +100,7 @@ volume = 0.075 # in cubic meter
 density = mass / volume # 1000 Kg/m^3
 print(density)
 ```
-### Operadores de Comaparacion
+### Operadores de Comparacion
 En programación comparamos valores, utilizamos operadores de comparación para comparar dos valores. Comprobamos si un valor es mayor o menor o igual a otro valor. La siguiente tabla muestra los operadores de comparación de Python que fue tomada de [w3shool](https://www.w3schools.com/python/python_operators.asp).
 ![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/f3b81adb-be6b-4768-9cb5-ac957ab0d8f9)
 **Ejemplo de operadores de comparacion**
@@ -160,7 +160,7 @@ print(not not True)  # True
 print(not not False) # False
 ```
 
-Excelente! una seccion mas avanzada!,ahora toca repasar con unos ejercicios :str
+Excelente! una seccion mas avanzada!,ahora toca repasar con unos ejercicios
 ## Ejercicios
 
 * Declara tu edad como variable integer
