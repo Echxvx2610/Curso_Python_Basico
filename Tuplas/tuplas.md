@@ -27,6 +27,7 @@ len(tpl) # 3
 ```
 ## Accesando a los elementos de una tupla
 Indexación positiva De forma similar al tipo de datos lista, utilizamos la indexación positiva o negativa para acceder a los elementos de las tuplas.
+
 ![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/c5cf4245-b49b-4073-aa40-5c07c0abd59a)
 ```python
 # Syntax
@@ -41,6 +42,7 @@ last_index =len(fruits) - 1
 last_fruit = fruits[las_index]
 ```
 Indexación negativa La indexación negativa significa que empezando por el final, -1 se refiere al último elemento, -2 al penúltimo y el negativo de la longitud de la lista/tupla se refiere al primer elemento.
+
 ![image](https://github.com/Echxvx2610/Curso_Python_Basico/assets/99057175/d95d70d0-0cb6-47a9-ada9-e4e11e69cdc9)
 ```python
 # Syntax
