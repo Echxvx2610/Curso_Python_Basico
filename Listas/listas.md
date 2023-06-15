@@ -183,7 +183,7 @@ print(fruits)       # ['orange', 'mango', 'lemon']
 del fruits[1]     
 print(fruits)       # ['orange', 'lemon']
 del fruits
-print(fruits)       # This should give: NameError: name 'fruits' is not defined
+print(fruits)       # esto probablemente de despliegue un error porque quieres imprimir una lista que ha sido borrada
 ```
 ## Limpiando items de una lista
 El método clear() vacía la lista:
@@ -253,6 +253,10 @@ fruits = ['banana', 'orange', 'mango', 'lemon']
 print(fruits.index('orange'))   # 1
 ages = [22, 19, 24, 25, 26, 24, 25, 24]
 print(ages.index(24)) 
+```
+## Invertir una lista
+el metodo reverse() invierte el orden de una lista
+```python
 # Reverse
 fruits = ['banana', 'orange', 'mango', 'lemon']
 fruits.reverse()
