@@ -144,3 +144,5 @@ food_stuff_tp.
 * Cambiar la tupla sobre food_stuff_tp a una lista food_stuff_lt
 * Extraiga el elemento o elementos centrales de la tupla food_stuff_tp o de la lista food_stuff_lt.
 * Elimine los tres primeros y los tres últimos elementos de la lista food_stuff_lt.
+
+*Nota: para consultar notas o dudad puedes revisar el archivo [tuplas.py](./tuplas.py)
