@@ -280,3 +280,23 @@ print(ages)
 ages.sort(reverse=True)
 print(ages) 
 ```
+
+## Ejercicios
+* Declarar una lista vacía
+* Declarar una lista con más de 5 elementos
+* Determinar la longitud de la lista
+* Obtener el primer elemento, el elemento central y el último elemento de la lista
+* Declara una lista llamada tipos_datos_mezclados, pon tu(nombre, edad, altura, estado civil, dirección)
+* Declara una variable de lista llamada it_companies y asígnale los valores iniciales Facebook, Google, Microsoft, Apple, IBM, Oracle y Amazon.
+* Imprime la lista con print()
+* Imprime el número de empresas de la lista
+* Imprimir la primera, segunda y última empresa
+* Imprimir la lista después de modificar una de las empresas
+* La siguiente es una lista de 10 edades de estudiantes:
+```python
+edades = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
+```
+* Ordena la lista y encuentra la edad mínima y máxima
+* Añade la edad mínima y la edad máxima a la lista.
+* Calcula la mediana de edad (un elemento intermedio o dos elementos intermedios divididos por dos)
+* Calcula la edad media (suma de todos los elementos dividida por su número)
