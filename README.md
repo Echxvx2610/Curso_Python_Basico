@@ -25,7 +25,7 @@ Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo e
   * **Tipos y Estructuras de Datos**
     * [Strings (Cadenas de texto)](./Strings/strings.md)
     * [Listas](./Listas/listas.md)
-    * [Tuplas](./Tuplas/tuplas.py)
+    * [Tuplas](./Tuplas/tuplas.md)
     * [Sets]()
     * [Diccionarios]()
   * Bucles
