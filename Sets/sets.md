@@ -1,4 +1,5 @@
 # Sets (conjuntos) 
+Conjunto es una colección de elementos. Permíteme que te recuerde tus clases de matemáticas de primaria o secundaria. La definición matemática de conjunto se puede aplicar también en Python. Conjunto es una colección de elementos distintos desordenados y no indexados. En Python el conjunto se utiliza para almacenar elementos únicos, y es posible encontrar la unión, intersección, diferencia, diferencia simétrica, subconjunto, superconjunto y conjunto disjunto entre conjuntos.
 
 ## Creación de un conjunto
 ## Obtención de la longitud del conjunto
