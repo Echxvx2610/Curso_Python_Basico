@@ -226,3 +226,4 @@ age = [22, 19, 24, 25, 26, 24, 25, 24]
 * Cuál es la diferencia simétrica entre A y B
 * Eliminar los conjuntos completamente
 
+*Recuerda que puedes consultar las notas en [sets.py](.sets.py)
