@@ -27,7 +27,7 @@ Nota: Este curso se ira actualizando en el transcurso de las semanas,ya que lo e
     * [Listas](./Listas/listas.md)
     * [Tuplas](./Tuplas/tuplas.md)
     * [Sets](./Sets/sets.md)
-    * [Diccionarios](.\Diccionarios\diccionarios.md)
+    * [Diccionarios](./Diccionarios/diccionarios.md)
   * Bucles
     * [Condicionales]()
     * [Loops]()
