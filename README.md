@@ -6,6 +6,8 @@
 
 Autor: [Cristian Echevarria](https://github.com/Echxvx2610)
 
+"""Aviso: Actualmente el curso se encuentra en pausa,debido a que tengo problemas con mi laptop,en un par de semanas continuo con la actividad"""
+
 ## Bienvenidos! 🥳
 
 El objetivo de este Curso de introduccion al lenguaje de programacion python,tiene finalidad de dar una introduccion a mis amigos y compañeros de carrera tanto como para esas personas que buscan una introduccion a este lenguaje de una forma mas amigable y sin tantos tecnicismos. dicho curso pretendo abarcar los  siguentes topicos:
