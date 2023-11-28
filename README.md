@@ -6,7 +6,8 @@
 
 Autor: [Cristian Echevarria](https://github.com/Echxvx2610)
 
-"""Aviso: Actualmente el curso se encuentra en pausa,debido a que tengo problemas con mi laptop,en un par de semanas continuo con la actividad"""
+# Aviso: 
+Actualmente el curso se encuentra en pausa,Pero!!! retomamos en un par de semanas,con mas conocimiento y mas energia!
 
 ## Bienvenidos! 🥳
 
