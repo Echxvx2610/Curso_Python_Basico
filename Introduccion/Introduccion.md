@@ -65,7 +65,7 @@ En Python, hay varios tipos de datos. Comenzaremos con los más comunes. Los dif
 
 **Numeros**
 
-* Integer o Enteros(Netivos y positivos asi como cero)
+* Integer o Enteros(Negativos y positivos asi como cero)
   * Ejemplo: -3,-2,-1,0,1,2,3 
 * Float o decimales
   * Ejemplo: 2.34,3.1414,10.00
